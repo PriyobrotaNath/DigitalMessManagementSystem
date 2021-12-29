@@ -1,0 +1,11 @@
+a 1234
+Ambiya 4a%b
+p 1234
+pRIYO 1243
+l 123
+zishan 789
+l 12
+li 12
+a 12
+a 12
+l a
